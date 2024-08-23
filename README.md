@@ -15,7 +15,7 @@ the best-performing players.
 Python,Pandas,Numpy,PowerBi,webscraping, Data collection,Data Preprocessing,Deeper analytical mindset
 ## Working
  In this section I Describe the working of the project.
-    1) convert the json file into data frame then performing data preprocessing and data cleaning process on them.
+    1) convert the json file into data frame then performing data preprocessing and data cleaning process on them.|
     2) convert the data set int csv file and open into Power-Bi software.
     3) In power query section performing data cleaning once again and the in Dax section create data modelling which shown below.
     4) at last stage carete a Report based on the condition, in Which create best 11 from dimplayer, batsman, Ballers, Allrounders.
@@ -93,11 +93,22 @@ To  finalised the best 11 in Power bi I created some Dax Formulas but I provide 
 ## Screenshots
 
 
+![Screenshot 2024-08-23 230147](https://github.com/user-attachments/assets/2f827ab9-2446-450e-aa89-4e324a3ae7e2)
+
+
 
 ![Screenshot 2024-08-24 002346](https://github.com/user-attachments/assets/a3f3e3b9-a5b8-4647-98ac-54c038b1c839)
+
+
+
 ![Screenshot 2024-08-24 002429](https://github.com/user-attachments/assets/3bdd1845-1657-4c71-a70b-5c1e74c719c8)
-![Screenshot 2024-08-23 230147](https://github.com/user-attachments/assets/2f827ab9-2446-450e-aa89-4e324a3ae7e2)
+
+
+
 ![Screenshot (121)](https://github.com/user-attachments/assets/f60f0883-695d-4238-967d-52f1ec8cb60a)
+
+
+
 ![Screenshot 2024-08-24 002246](https://github.com/user-attachments/assets/c4b2208b-4fd5-421d-a8de-44bf1db0b3a2)
 
 
