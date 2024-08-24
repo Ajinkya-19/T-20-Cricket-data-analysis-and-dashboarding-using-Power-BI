@@ -2,7 +2,7 @@
 # T-20-Cricket-data-analysis-and-dashboarding-using-Power-BI
 
 
-this project is focused on craete best 11 based on the players weakness and Power.The objective of this project is to assemble the best 11-player team for T20 World Cup. Comprehensive insights from the 2022 T20 World Cupvdata are required to make informed decisions on player selection.
+this project is focused on create best 11 based on the players weakness and Power.The objective of this project is to assemble the best 11-player team for T20 World Cup. Comprehensive insights from the 2022 T20 World Cupvdata are required to make informed decisions on player selection.
 
 In this project I scraped data from the ESPNcricinfo website
 using Bright Data, transform and clean the data with pandas, and created
