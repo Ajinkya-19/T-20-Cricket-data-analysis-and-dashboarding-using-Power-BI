@@ -12,7 +12,14 @@ the best-performing players.
 
 
 ## 🛠 Skills
-Python, Pandas, Numpy, PowerBi, webscraping, Data collection, Data Preprocessing, Deeper analytical mindset
+* Python
+*  Pandas
+*  Numpy
+*   PowerBi
+*    webscraping
+* Data collection
+*  Data Preprocessing
+*   Deeper analytical mindset
 ## Working
  In this section I Describe the working of the project.
     1) convert the json file into data frame then performing data preprocessing and data cleaning process on them.
